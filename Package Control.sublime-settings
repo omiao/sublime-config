@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ConvertToUTF8",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Terminal",
+		"Virtualenv"
+	]
+}
