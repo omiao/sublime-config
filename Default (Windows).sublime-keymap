@@ -4,7 +4,7 @@
 	{ "keys": ["alt+,"], "command": "jump_back" },
 	{ "keys": ["alt+."], "command": "jump_forward" },
 	{ "keys": ["ctrl+/"], "command": "show_panel", "args": {"panel": "find_in_files"} },
-	{ "keys": ["ctrl+]"], "command": "goto_definition" },
+	//{ "keys": ["ctrl+]"], "command": "goto_definition" },
 
 	//SublimeREPL
 	{
